@@ -16,4 +16,4 @@ Database: SimbirSoftParser
 Log path: C:\LogFile\logFile.log
 
 info: Если не поступает сообщение на ввод данных, вероятно вы уже просматривали базу данных через DB Navigator в Intellij Idea. 
-Требуется нажать Disconect от
+Требуется нажать Disconect в DB Browser от базы данных.
