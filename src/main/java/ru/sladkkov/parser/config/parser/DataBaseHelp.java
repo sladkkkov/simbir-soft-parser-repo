@@ -94,10 +94,8 @@ public class DataBaseHelp {
         // Сформируем финальный список уникальных слов в мапу, и потом занесем в БД. В 3 раза быстрее 2 варианта, но всё ещё очень долго.
         HashMap<String, Word> uniqueWord = new HashMap<>();
         for (String s : array) {
-            int i = 1;
             if (!uniqueWord.containsKey(s)) {
-                uniqueWord.put(s, new Word(s, i));
-                i++;
+                uniqueWord.put(s, new Word(s, 1));
             } else {
                 uniqueWord.replace(s, new Word(s, uniqueWord.get(s).getQuantity() + 1));
             }

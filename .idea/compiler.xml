@@ -8,6 +8,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="SimbrSoftParser" />
+        <module name="simbr-soft-parser-repo" />
       </profile>
     </annotationProcessing>
   </component>
