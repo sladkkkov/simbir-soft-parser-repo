@@ -10,7 +10,6 @@ Database connection:
 
 Host: 34.88.62.103
 User: postgres
-Password: Danila1q2w3e
 Database: SimbirSoftParser
 
 Log path: C:\LogFile\logFile.log
