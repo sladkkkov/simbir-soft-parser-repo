@@ -1,4 +1,4 @@
-# simbr-soft-parser-repo
+# Парсер слов
 
 Сладков Данила Алексеевич
 sladkkov@yandex.ru
