@@ -6,12 +6,6 @@ sladkkov@yandex.ru
 Программа выполенна на языке Java.
 Программа извлекает данные с введенного сайта, считает количество уникальных слов и заносит их в базу данных на сервере.
 
-Database connection: 
-
-Host: 34.88.62.103
-User: postgres
-Database: SimbirSoftParser
-
 Log path: C:\LogFile\logFile.log
  
 Run app: src/main/java/ru/sladkkov/parser/config/parser/MainAppParser.java
